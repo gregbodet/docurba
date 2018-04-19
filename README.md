@@ -1,4 +1,6 @@
-# document d'urbanisme
+![picto](/doc/img/Logo_web-GeoCompiegnois.png)
+
+# Document d'urbanisme
 
 le projet contient :
 * script d'initialisation de la base de données métier postgis au format cnig2017 `sql\init_bd_docurba.sql`
